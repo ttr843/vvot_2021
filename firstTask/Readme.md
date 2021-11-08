@@ -4,8 +4,10 @@
 ## Getting Started
 
 1. Set up credentials file
+
 Win: username/.aws
-Unix: /HOME
+
+Unix: $HOME
 
 2. Run this command
 
