@@ -30,15 +30,17 @@ Unix: $HOME
 
 #### 5. Put jar file into function
 
-#### 6. Create object storage trigger with function
+#### 6. Create object storage trigger and set up resource as function
 
-#### 7. Create queue 
+#### 7. select bucket and event(create object) for trigger
+
+#### 8. Create queue 
 
 ##### settings : 
 
 1. name : faceQueue
 
-#### 8.Put some jpeg file into bucket
+#### 9.Put some jpeg file into bucket
 
 
 
