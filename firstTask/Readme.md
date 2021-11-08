@@ -10,7 +10,7 @@ Win: username/.aws
 
 Unix: $HOME
 
-#### 2. Put albums.json into your bucket
+#### 2. Put albums.json into  bucket
 
 
 #### 3. Run this command
