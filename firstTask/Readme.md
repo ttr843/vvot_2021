@@ -22,7 +22,7 @@ Unix: $HOME
 #### 4. Run jar with command
 
 ```bash
-*path to jdk*/java -Xmx32G -jar *jar name*.jar &  
+nohup *path to jdk*/java -Xmx32G -jar *jar name*.jar &  
 ```
 
 
