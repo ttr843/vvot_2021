@@ -9,13 +9,15 @@ Win: username/.aws
 
 Unix: $HOME
 
-2. Run this command
+2. Put albums.json into your bucket
+
+3. Run this command
 
 ```bash
 ./mvn clean clean compile package  
 ```
 
-3. Run jar with command
+4. Run jar with command
 
 ```bash
 *path to jdk*/java -Xmx32G -jar *jar name*.jar &  
